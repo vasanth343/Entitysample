@@ -1,0 +1,16 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+label{
+    display:block;
+}
+.table{
+    width: 70%;
+    margin: auto;
+}
+.update{
+    width:70%;
+    margin: auto;
+}
